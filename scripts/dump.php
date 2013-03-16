@@ -207,6 +207,7 @@ class Console {
 	 *
 	 * @author              Patrick Fisher <patrick@pwfisher.com>
 	 * @since               August 21, 2009
+	 * @source              https://github.com/pwfisher/CommandLine.php
 	 * @see                 http://www.php.net/manual/en/features.commandline.php
 	 *                      #81042 function arguments($argv) by technorati at gmail dot com, 12-Feb-2008
 	 *                      #78651 function getArgs($args) by B Crawford, 22-Oct-2007
